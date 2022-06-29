@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <span className="theme-bejamas" />
-      <span>Changed</span>
+      <span>Changed111</span>
       <Component {...pageProps} />
     </>
   );
